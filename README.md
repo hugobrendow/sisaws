@@ -29,7 +29,7 @@ Para execução do projeto é necessário a execução dos seguintes passos:
 -> URL da Documentação: https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/setup-credentials.html
 
 - Tecnologias:
-> Spring MVC
-> Hibernate
-> API AWS
+> Spring MVC, 
+> Hibernate, 
+> API AWS, 
 > JSP

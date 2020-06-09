@@ -1,0 +1,8 @@
+/WebContent/WEB-INF/spring-context.xml
+/build/
+/target/
+*target*
+*.jar
+*.war
+*.ear
+*.class

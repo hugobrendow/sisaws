@@ -1,10 +1,14 @@
-> Banco de Dados Mysql
+# SISAWS
+
+Projeto desenvolvido para agendamento de ligar máquinas na AMAZON, utilizando grupos de máquinas para ligar em ordem e desligar em ordem.
+
+Para execução do projeto é necessário a execução dos seguintes passos:
+
+> Subir uma instância de banco de dados [MYSQL]
 > docker run --name mysql -e MYSQL_ALLOW_EMPTY_PASSWORD=yes -tid -p 3308:3306 mysql:latest
 
 
-- Cliente utilizando maven
-
-- Serviço para iniciar instância na AWS:
+- Serviço para iniciar instância na AWS: [Documentação]
 -> URL da Documentação: https://docs.aws.amazon.com/pt_br/sdk-for-java/v1/developer-guide/setup-credentials.html
 
 
